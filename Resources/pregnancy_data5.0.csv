@@ -1,0 +1,434 @@
+﻿Week_Ending_Date,Race and Ethnicity,Vaccination Coverage Status,Pregnancy Status at Vaccination,Vaccination Coverage Amount,Denominator,Vaccination Coverage Percentage (%)
+2021-01-02,All Races/Ethnicity,Fully Vaccinated,Any,0,"103,216",0
+2021-01-09,"Black, NH",Fully Vaccinated,Any,8,"7,799",0.1
+2021-01-09,"White, NH",Fully Vaccinated,Any,108,"36,089",0.3
+2021-01-09,Hispanic/Latino,Fully Vaccinated,Any,35,"35,229",0.1
+2021-01-09,"Other, NH",Fully Vaccinated,Any,18,"4,550",0.4
+2021-01-09,All Races/Ethnicity,Fully Vaccinated,Any,207,"103,668",0.2
+2021-01-09,"Asian, NH",Fully Vaccinated,Any,79,"15,736",0.5
+2021-01-16,"Black, NH",Fully Vaccinated,Any,8,"7,816",0.1
+2021-01-16,"White, NH",Fully Vaccinated,Any,326,"36,216",0.9
+2021-01-16,Hispanic/Latino,Fully Vaccinated,Any,106,"35,357",0.3
+2021-01-16,"Other, NH",Fully Vaccinated,Any,50,"4,557",1.1
+2021-01-16,All Races/Ethnicity,Fully Vaccinated,Any,728,"103,958",0.7
+2021-01-16,"Asian, NH",Fully Vaccinated,Any,236,"15,766",1.5
+2021-01-23,"Black, NH",Fully Vaccinated,Any,23,"7,824",0.3
+2021-01-23,"White, NH",Fully Vaccinated,Any,579,"36,207",1.6
+2021-01-23,Hispanic/Latino,Fully Vaccinated,Any,213,"35,429",0.6
+2021-01-23,"Other, NH",Fully Vaccinated,Any,68,"4,537",1.5
+2021-01-23,All Races/Ethnicity,Fully Vaccinated,Any,1249,"104,115",1.2
+2021-01-23,"Asian, NH",Fully Vaccinated,Any,380,"15,847",2.4
+2021-01-30,"Black, NH",Fully Vaccinated,Any,47,"7,842",0.6
+2021-01-30,"White, NH",Fully Vaccinated,Any,870,"36,246",2.4
+2021-01-30,Hispanic/Latino,Fully Vaccinated,Any,356,"35,572",1
+2021-01-30,"Other, NH",Fully Vaccinated,Any,100,"4,548",2.2
+2021-01-30,All Races/Ethnicity,Fully Vaccinated,Any,2087,"104,358",2
+2021-01-30,"Asian, NH",Fully Vaccinated,Any,586,"15,848",3.7
+2021-02-06,"Black, NH",Fully Vaccinated,Any,79,"7,854",1
+2021-02-06,"White, NH",Fully Vaccinated,Any,1234,"36,304",3.4
+2021-02-06,Hispanic/Latino,Fully Vaccinated,Any,572,"35,723",1.6
+2021-02-06,"Other, NH",Fully Vaccinated,Any,128,"4,583",2.8
+2021-02-06,All Races/Ethnicity,Fully Vaccinated,Any,2931,"104,671",2.8
+2021-02-06,"Asian, NH",Fully Vaccinated,Any,841,"15,861",5.3
+2021-02-13,"Black, NH",Fully Vaccinated,Any,110,"7,879",1.4
+2021-02-13,"White, NH",Fully Vaccinated,Any,1666,"36,221",4.6
+2021-02-13,Hispanic/Latino,Fully Vaccinated,Any,930,"35,785",2.6
+2021-02-13,"Other, NH",Fully Vaccinated,Any,179,"4,590",3.9
+2021-02-13,All Races/Ethnicity,Fully Vaccinated,Any,4187,"104,669",4
+2021-02-13,"Asian, NH",Fully Vaccinated,Any,1158,"15,861",7.3
+2021-02-20,"Black, NH",Fully Vaccinated,Any,149,"7,867",1.9
+2021-02-20,"White, NH",Fully Vaccinated,Any,2097,"36,163",5.8
+2021-02-20,Hispanic/Latino,Fully Vaccinated,Any,1184,"35,864",3.3
+2021-02-20,"Other, NH",Fully Vaccinated,Any,216,"4,588",4.7
+2021-02-20,All Races/Ethnicity,Fully Vaccinated,Any,5131,"104,720",4.9
+2021-02-20,"Asian, NH",Fully Vaccinated,Any,1365,"15,868",8.6
+2021-02-27,"Black, NH",Fully Vaccinated,Any,182,"7,901",2.3
+2021-02-27,"White, NH",Fully Vaccinated,Any,2536,"36,231",7
+2021-02-27,Hispanic/Latino,Fully Vaccinated,Any,1402,"35,940",3.9
+2021-02-27,"Other, NH",Fully Vaccinated,Any,257,"4,584",5.6
+2021-02-27,All Races/Ethnicity,Fully Vaccinated,Any,6089,"104,985",5.8
+2021-02-27,"Asian, NH",Fully Vaccinated,Any,1515,"15,943",9.5
+2021-03-06,"Black, NH",Fully Vaccinated,Any,222,"7,933",2.8
+2021-03-06,"White, NH",Fully Vaccinated,Any,2970,"36,222",8.2
+2021-03-06,Hispanic/Latino,Fully Vaccinated,Any,1622,"36,049",4.5
+2021-03-06,"Other, NH",Fully Vaccinated,Any,302,"4,573",6.6
+2021-03-06,All Races/Ethnicity,Fully Vaccinated,Any,7045,"105,151",6.7
+2021-03-06,"Asian, NH",Fully Vaccinated,Any,1678,"15,982",10.5
+2021-03-13,"Black, NH",Fully Vaccinated,Any,270,"7,932",3.4
+2021-03-13,"White, NH",Fully Vaccinated,Any,3508,"36,166",9.7
+2021-03-13,Hispanic/Latino,Fully Vaccinated,Any,1880,"36,155",5.2
+2021-03-13,"Other, NH",Fully Vaccinated,Any,368,"4,598",8
+2021-03-13,All Races/Ethnicity,Fully Vaccinated,Any,8316,"105,265",7.9
+2021-03-13,"Asian, NH",Fully Vaccinated,Any,1920,"16,002",12
+2021-03-20,"Black, NH",Fully Vaccinated,Any,308,"7,900",3.9
+2021-03-20,"White, NH",Fully Vaccinated,Any,4182,"36,053",11.6
+2021-03-20,Hispanic/Latino,Fully Vaccinated,Any,2355,"36,236",6.5
+2021-03-20,"Other, NH",Fully Vaccinated,Any,430,"4,621",9.3
+2021-03-20,All Races/Ethnicity,Fully Vaccinated,Any,9896,"105,277",9.4
+2021-03-20,"Asian, NH",Fully Vaccinated,Any,2247,"16,047",14
+2021-03-27,"Black, NH",Fully Vaccinated,Any,364,"7,912",4.6
+2021-03-27,"White, NH",Fully Vaccinated,Any,5109,"35,982",14.2
+2021-03-27,Hispanic/Latino,Fully Vaccinated,Any,2940,"36,299",8.1
+2021-03-27,"Other, NH",Fully Vaccinated,Any,531,"4,614",11.5
+2021-03-27,All Races/Ethnicity,Fully Vaccinated,Any,12008,"105,332",11.4
+2021-03-27,"Asian, NH",Fully Vaccinated,Any,2607,"16,092",16.2
+2021-04-03,"Black, NH",Fully Vaccinated,Any,426,"7,897",5.4
+2021-04-03,"White, NH",Fully Vaccinated,Any,6025,"35,865",16.8
+2021-04-03,Hispanic/Latino,Fully Vaccinated,Any,3559,"36,321",9.8
+2021-04-03,"Other, NH",Fully Vaccinated,Any,621,"4,598",13.5
+2021-04-03,All Races/Ethnicity,Fully Vaccinated,Any,14200,"105,185",13.5
+2021-04-03,"Asian, NH",Fully Vaccinated,Any,3024,"16,084",18.8
+2021-04-10,"Black, NH",Fully Vaccinated,Any,519,"7,865",6.6
+2021-04-10,"White, NH",Fully Vaccinated,Any,7189,"35,768",20.1
+2021-04-10,Hispanic/Latino,Fully Vaccinated,Any,4413,"36,471",12.1
+2021-04-10,"Other, NH",Fully Vaccinated,Any,748,"4,617",16.2
+2021-04-10,All Races/Ethnicity,Fully Vaccinated,Any,17144,"105,176",16.3
+2021-04-10,"Asian, NH",Fully Vaccinated,Any,3624,"16,034",22.6
+2021-04-17,"Black, NH",Fully Vaccinated,Any,599,"7,881",7.6
+2021-04-17,"White, NH",Fully Vaccinated,Any,8538,"35,722",23.9
+2021-04-17,Hispanic/Latino,Fully Vaccinated,Any,5271,"36,601",14.4
+2021-04-17,"Other, NH",Fully Vaccinated,Any,874,"4,601",19
+2021-04-17,All Races/Ethnicity,Fully Vaccinated,Any,20424,"105,278",19.4
+2021-04-17,"Asian, NH",Fully Vaccinated,Any,4312,"16,030",26.9
+2021-04-24,"Black, NH",Fully Vaccinated,Any,699,"7,857",8.9
+2021-04-24,"White, NH",Fully Vaccinated,Any,9898,"35,603",27.8
+2021-04-24,Hispanic/Latino,Fully Vaccinated,Any,6265,"36,635",17.1
+2021-04-24,"Other, NH",Fully Vaccinated,Any,1025,"4,578",22.4
+2021-04-24,All Races/Ethnicity,Fully Vaccinated,Any,23967,"105,118",22.8
+2021-04-24,"Asian, NH",Fully Vaccinated,Any,5098,"15,982",31.9
+2021-05-01,"Black, NH",Fully Vaccinated,Any,822,"7,904",10.4
+2021-05-01,"White, NH",Fully Vaccinated,Any,11020,"35,548",31
+2021-05-01,Hispanic/Latino,Fully Vaccinated,Any,7146,"36,645",19.5
+2021-05-01,"Other, NH",Fully Vaccinated,Any,1156,"4,568",25.3
+2021-05-01,All Races/Ethnicity,Fully Vaccinated,Any,27116,"105,100",25.8
+2021-05-01,"Asian, NH",Fully Vaccinated,Any,5892,"15,967",36.9
+2021-05-08,"Black, NH",Fully Vaccinated,Any,930,"7,952",11.7
+2021-05-08,"White, NH",Fully Vaccinated,Any,12063,"35,478",34
+2021-05-08,Hispanic/Latino,Fully Vaccinated,Any,8031,"36,673",21.9
+2021-05-08,"Other, NH",Fully Vaccinated,Any,1293,"4,570",28.3
+2021-05-08,All Races/Ethnicity,Fully Vaccinated,Any,30168,"105,116",28.7
+2021-05-08,"Asian, NH",Fully Vaccinated,Any,6694,"15,977",41.9
+2021-05-15,"Black, NH",Fully Vaccinated,Any,1020,"7,969",12.8
+2021-05-15,"Other, NH",Fully Vaccinated,Any,1436,"4,601",31.2
+2021-05-15,"White, NH",Fully Vaccinated,Any,12840,"35,372",36.3
+2021-05-15,Hispanic/Latino,Fully Vaccinated,Any,8926,"36,734",24.3
+2021-05-15,All Races/Ethnicity,Fully Vaccinated,Any,32928,"105,201",31.3
+2021-05-15,"Asian, NH",Fully Vaccinated,Any,7369,"16,019",46
+2021-05-22,"Black, NH",Fully Vaccinated,Any,1146,"8,015",14.3
+2021-05-22,"Other, NH",Fully Vaccinated,Any,1557,"4,621",33.7
+2021-05-22,"White, NH",Fully Vaccinated,Any,13549,"35,377",38.3
+2021-05-22,Hispanic/Latino,Fully Vaccinated,Any,9714,"36,795",26.4
+2021-05-22,All Races/Ethnicity,Fully Vaccinated,Any,35418,"105,411",33.6
+2021-05-22,"Asian, NH",Fully Vaccinated,Any,8056,"16,079",50.1
+2021-05-29,"Other, NH",Fully Vaccinated,Any,1647,"4,627",35.6
+2021-05-29,"White, NH",Fully Vaccinated,Any,14215,"35,360",40.2
+2021-05-29,"Black, NH",Fully Vaccinated,Any,1238,"7,987",15.5
+2021-05-29,Hispanic/Latino,Fully Vaccinated,Any,10402,"36,888",28.2
+2021-05-29,All Races/Ethnicity,Fully Vaccinated,Any,37551,"105,479",35.6
+2021-05-29,"Asian, NH",Fully Vaccinated,Any,8551,"16,074",53.2
+2021-06-05,"Other, NH",Fully Vaccinated,Any,1743,"4,635",37.6
+2021-06-05,"White, NH",Fully Vaccinated,Any,14640,"35,278",41.5
+2021-06-05,"Black, NH",Fully Vaccinated,Any,1345,"8,003",16.8
+2021-06-05,Hispanic/Latino,Fully Vaccinated,Any,10985,"36,862",29.8
+2021-06-05,All Races/Ethnicity,Fully Vaccinated,Any,39322,"105,422",37.3
+2021-06-05,"Asian, NH",Fully Vaccinated,Any,8988,"16,078",55.9
+2021-06-12,"Other, NH",Fully Vaccinated,Any,1848,"4,656",39.7
+2021-06-12,"White, NH",Fully Vaccinated,Any,15110,"35,222",42.9
+2021-06-12,"Black, NH",Fully Vaccinated,Any,1420,"8,020",17.7
+2021-06-12,Hispanic/Latino,Fully Vaccinated,Any,11649,"36,982",31.5
+2021-06-12,All Races/Ethnicity,Fully Vaccinated,Any,41166,"105,553",39
+2021-06-12,"Asian, NH",Fully Vaccinated,Any,9446,"16,092",58.7
+2021-06-19,"Other, NH",Fully Vaccinated,Any,1925,"4,660",41.3
+2021-06-19,"White, NH",Fully Vaccinated,Any,15511,"35,173",44.1
+2021-06-19,"Black, NH",Fully Vaccinated,Any,1525,"8,026",19
+2021-06-19,Hispanic/Latino,Fully Vaccinated,Any,12174,"37,116",32.8
+2021-06-19,All Races/Ethnicity,Fully Vaccinated,Any,42675,"105,631",40.4
+2021-06-19,"Asian, NH",Fully Vaccinated,Any,9792,"16,053",61
+2021-06-26,"Other, NH",Fully Vaccinated,Any,1987,"4,675",42.5
+2021-06-26,"White, NH",Fully Vaccinated,Any,15905,"35,188",45.2
+2021-06-26,"Black, NH",Fully Vaccinated,Any,1612,"8,060",20
+2021-06-26,Hispanic/Latino,Fully Vaccinated,Any,12656,"37,115",34.1
+2021-06-26,All Races/Ethnicity,Fully Vaccinated,Any,43991,"105,747",41.6
+2021-06-26,"Asian, NH",Fully Vaccinated,Any,10087,"16,087",62.7
+2021-07-03,"Other, NH",Fully Vaccinated,Any,2036,"4,681",43.5
+2021-07-03,"White, NH",Fully Vaccinated,Any,16208,"35,158",46.1
+2021-07-03,"Black, NH",Fully Vaccinated,Any,1691,"8,051",21
+2021-07-03,Hispanic/Latino,Fully Vaccinated,Any,13041,"37,049",35.2
+2021-07-03,All Races/Ethnicity,Fully Vaccinated,Any,45220,"105,654",42.8
+2021-07-03,"Asian, NH",Fully Vaccinated,Any,10357,"16,083",64.4
+2021-07-10,"Other, NH",Fully Vaccinated,Any,2087,"4,691",44.5
+2021-07-10,"White, NH",Fully Vaccinated,Any,16562,"35,088",47.2
+2021-07-10,"Black, NH",Fully Vaccinated,Any,1764,"7,982",22.1
+2021-07-10,Hispanic/Latino,Fully Vaccinated,Any,13463,"37,087",36.3
+2021-07-10,All Races/Ethnicity,Fully Vaccinated,Any,46451,"105,571",44
+2021-07-10,"Asian, NH",Fully Vaccinated,Any,10611,"16,078",66
+2021-07-17,"Other, NH",Fully Vaccinated,Any,2155,"4,715",45.7
+2021-07-17,"White, NH",Fully Vaccinated,Any,16875,"35,084",48.1
+2021-07-17,"Black, NH",Fully Vaccinated,Any,1848,"7,964",23.2
+2021-07-17,Hispanic/Latino,Fully Vaccinated,Any,13875,"37,098",37.4
+2021-07-17,All Races/Ethnicity,Fully Vaccinated,Any,47516,"105,590",45
+2021-07-17,"Asian, NH",Fully Vaccinated,Any,10858,"16,086",67.5
+2021-07-24,"Other, NH",Fully Vaccinated,Any,2201,"4,714",46.7
+2021-07-24,"White, NH",Fully Vaccinated,Any,17151,"35,073",48.9
+2021-07-24,"Black, NH",Fully Vaccinated,Any,1908,"7,950",24
+2021-07-24,Hispanic/Latino,Fully Vaccinated,Any,14364,"37,117",38.7
+2021-07-24,All Races/Ethnicity,Fully Vaccinated,Any,48705,"105,650",46.1
+2021-07-24,"Asian, NH",Fully Vaccinated,Any,11099,"16,109",68.9
+2021-07-31,"Asian, NH",Fully Vaccinated,Any,11345,"16,161",70.2
+2021-07-31,"Other, NH",Fully Vaccinated,Any,2248,"4,712",47.7
+2021-07-31,"White, NH",Fully Vaccinated,Any,17426,"35,062",49.7
+2021-07-31,"Black, NH",Fully Vaccinated,Any,1978,"7,912",25
+2021-07-31,Hispanic/Latino,Fully Vaccinated,Any,14740,"37,221",39.6
+2021-07-31,All Races/Ethnicity,Fully Vaccinated,Any,49819,"105,773",47.1
+2021-08-07,"Asian, NH",Fully Vaccinated,Any,11634,"16,248",71.6
+2021-08-07,"Other, NH",Fully Vaccinated,Any,2300,"4,722",48.7
+2021-08-07,"White, NH",Fully Vaccinated,Any,17706,"35,061",50.5
+2021-08-07,"Black, NH",Fully Vaccinated,Any,2038,"7,901",25.8
+2021-08-07,Hispanic/Latino,Fully Vaccinated,Any,15216,"37,295",40.8
+2021-08-07,All Races/Ethnicity,Fully Vaccinated,Any,50979,"105,985",48.1
+2021-08-14,"Asian, NH",Fully Vaccinated,Any,11860,"16,247",73
+2021-08-14,"Other, NH",Fully Vaccinated,Any,2329,"4,714",49.4
+2021-08-14,"White, NH",Fully Vaccinated,Any,18056,"35,061",51.5
+2021-08-14,"Black, NH",Fully Vaccinated,Any,2115,"7,893",26.8
+2021-08-14,Hispanic/Latino,Fully Vaccinated,Any,15657,"37,278",42
+2021-08-14,All Races/Ethnicity,Fully Vaccinated,Any,52254,"105,991",49.3
+2021-08-21,"Asian, NH",Fully Vaccinated,Any,12140,"16,295",74.5
+2021-08-21,"Other, NH",Fully Vaccinated,Any,2406,"4,737",50.8
+2021-08-21,"White, NH",Fully Vaccinated,Any,18442,"35,061",52.6
+2021-08-21,All Races/Ethnicity,Booster Dose,Any,322,"53,610",0.6
+2021-08-21,"Asian, NH",Booster Dose,Any,85,"12,136",0.7
+2021-08-21,"Black, NH",Booster Dose,Any,15,"2,197",0.7
+2021-08-21,Hispanic/Latino,Booster Dose,Any,97,"16,190",0.6
+2021-08-21,"Black, NH",Fully Vaccinated,Any,2199,"7,883",27.9
+2021-08-21,"White, NH",Booster Dose,Any,92,"18,456",0.5
+2021-08-21,Hispanic/Latino,Fully Vaccinated,Any,16186,"37,294",43.4
+2021-08-21,"Other, NH",Booster Dose,Any,10,"2,405",0.4
+2021-08-21,All Races/Ethnicity,Fully Vaccinated,Any,53571,"106,081",50.5
+2021-08-28,"Asian, NH",Fully Vaccinated,Any,12316,"16,248",75.8
+2021-08-28,"Other, NH",Fully Vaccinated,Any,2464,"4,738",52
+2021-08-28,"White, NH",Fully Vaccinated,Any,18859,"35,054",53.8
+2021-08-28,All Races/Ethnicity,Booster Dose,Any,385,"54,973",0.7
+2021-08-28,"Asian, NH",Booster Dose,Any,99,"12,315",0.8
+2021-08-28,"Black, NH",Booster Dose,Any,16,"2,282",0.7
+2021-08-28,Hispanic/Latino,Booster Dose,Any,101,"16,759",0.6
+2021-08-28,"Black, NH",Fully Vaccinated,Any,2282,"7,869",29
+2021-08-28,"White, NH",Booster Dose,Any,132,"18,855",0.7
+2021-08-28,Hispanic/Latino,Fully Vaccinated,Any,16767,"37,261",45
+2021-08-28,"Other, NH",Booster Dose,Any,15,"2,463",0.6
+2021-08-28,All Races/Ethnicity,Fully Vaccinated,Any,55008,"105,989",51.9
+2021-09-04,"Asian, NH",Fully Vaccinated,Any,12536,"16,280",77
+2021-09-04,"Other, NH",Fully Vaccinated,Any,2540,"4,748",53.5
+2021-09-04,"White, NH",Fully Vaccinated,Any,19250,"35,064",54.9
+2021-09-04,All Races/Ethnicity,Booster Dose,Any,452,"56,515",0.8
+2021-09-04,"Asian, NH",Booster Dose,Any,125,"12,541",1
+2021-09-04,"Black, NH",Booster Dose,Any,19,"2,415",0.8
+2021-09-04,Hispanic/Latino,Booster Dose,Any,122,"17,385",0.7
+2021-09-04,"Black, NH",Fully Vaccinated,Any,2414,"7,888",30.6
+2021-09-04,"White, NH",Booster Dose,Any,154,"19,255",0.8
+2021-09-04,Hispanic/Latino,Fully Vaccinated,Any,17380,"37,216",46.7
+2021-09-04,"Other, NH",Booster Dose,Any,18,"2,540",0.7
+2021-09-04,All Races/Ethnicity,Fully Vaccinated,Any,56508,"106,019",53.3
+2021-09-11,"Asian, NH",Fully Vaccinated,Any,12816,"16,284",78.7
+2021-09-11,"Other, NH",Fully Vaccinated,Any,2628,"4,761",55.2
+2021-09-11,"White, NH",Fully Vaccinated,Any,19596,"34,993",56
+2021-09-11,All Races/Ethnicity,Booster Dose,Any,524,"58,210",0.9
+2021-09-11,"Asian, NH",Booster Dose,Any,128,"12,821",1
+2021-09-11,"Black, NH",Booster Dose,Any,21,"2,589",0.8
+2021-09-11,Hispanic/Latino,Booster Dose,Any,127,"18,118",0.7
+2021-09-11,"Black, NH",Fully Vaccinated,Any,2589,"7,892",32.8
+2021-09-11,"White, NH",Booster Dose,Any,196,"19,591",1
+2021-09-11,Hispanic/Latino,Fully Vaccinated,Any,18102,"37,246",48.6
+2021-09-11,"Other, NH",Booster Dose,Any,21,"2,628",0.8
+2021-09-11,All Races/Ethnicity,Fully Vaccinated,Any,58201,"106,012",54.9
+2021-09-18,"Asian, NH",Fully Vaccinated,Any,13138,"16,341",80.4
+2021-09-18,"Other, NH",Fully Vaccinated,Any,2741,"4,767",57.5
+2021-09-18,"White, NH",Fully Vaccinated,Any,20129,"35,068",57.4
+2021-09-18,All Races/Ethnicity,Booster Dose,Any,542,"60,265",0.9
+2021-09-18,"Asian, NH",Booster Dose,Any,145,"13,142",1.1
+2021-09-18,"Black, NH",Booster Dose,Any,24,"2,717",0.9
+2021-09-18,Hispanic/Latino,Booster Dose,Any,133,"18,997",0.7
+2021-09-18,"Black, NH",Fully Vaccinated,Any,2713,"7,887",34.4
+2021-09-18,"White, NH",Booster Dose,Any,222,"20,144",1.1
+2021-09-18,Hispanic/Latino,Fully Vaccinated,Any,18999,"37,252",51
+2021-09-18,"Other, NH",Booster Dose,Any,25,"2,739",0.9
+2021-09-18,All Races/Ethnicity,Fully Vaccinated,Any,60302,"106,166",56.8
+2021-09-25,"Asian, NH",Fully Vaccinated,Any,13386,"16,364",81.8
+2021-09-25,"Other, NH",Fully Vaccinated,Any,2839,"4,796",59.2
+2021-09-25,"White, NH",Fully Vaccinated,Any,20575,"34,992",58.8
+2021-09-25,All Races/Ethnicity,Booster Dose,Any,684,"62,145",1.1
+2021-09-25,"Asian, NH",Booster Dose,Any,174,"13,379",1.3
+2021-09-25,"Black, NH",Booster Dose,Any,26,"2,902",0.9
+2021-09-25,Hispanic/Latino,Booster Dose,Any,158,"19,800",0.8
+2021-09-25,"Black, NH",Fully Vaccinated,Any,2901,"7,905",36.7
+2021-09-25,"White, NH",Booster Dose,Any,288,"20,588",1.4
+2021-09-25,Hispanic/Latino,Fully Vaccinated,Any,19798,"37,284",53.1
+2021-09-25,"Other, NH",Booster Dose,Any,28,"2,838",1
+2021-09-25,All Races/Ethnicity,Fully Vaccinated,Any,62157,"106,252",58.5
+2021-10-02,"Asian, NH",Fully Vaccinated,Any,13492,"16,354",82.5
+2021-10-02,"Other, NH",Fully Vaccinated,Any,2900,"4,793",60.5
+2021-10-02,"White, NH",Fully Vaccinated,Any,20952,"35,037",59.8
+2021-10-02,All Races/Ethnicity,Booster Dose,Any,1525,"63,543",2.4
+2021-10-02,"Asian, NH",Booster Dose,Any,405,"13,500",3
+2021-10-02,"Black, NH",Booster Dose,Any,42,"3,031",1.4
+2021-10-02,Hispanic/Latino,Booster Dose,Any,286,"20,419",1.4
+2021-10-02,"Black, NH",Fully Vaccinated,Any,3029,"7,951",38.1
+2021-10-02,"White, NH",Booster Dose,Any,671,"20,964",3.2
+2021-10-02,Hispanic/Latino,Fully Vaccinated,Any,20426,"37,273",54.8
+2021-10-02,"Other, NH",Booster Dose,Any,72,"2,899",2.5
+2021-10-02,All Races/Ethnicity,Fully Vaccinated,Any,63500,"106,365",59.7
+2021-10-09,"Asian, NH",Fully Vaccinated,Any,13654,"16,391",83.3
+2021-10-09,"Other, NH",Fully Vaccinated,Any,2937,"4,799",61.2
+2021-10-09,"White, NH",Fully Vaccinated,Any,21247,"35,003",60.7
+2021-10-09,All Races/Ethnicity,Booster Dose,Any,2460,"64,744",3.8
+2021-10-09,"Asian, NH",Booster Dose,Any,614,"13,648",4.5
+2021-10-09,"Black, NH",Booster Dose,Any,60,"3,177",1.9
+2021-10-09,Hispanic/Latino,Booster Dose,Any,439,"20,897",2.1
+2021-10-09,"Black, NH",Fully Vaccinated,Any,3179,"7,987",39.8
+2021-10-09,"White, NH",Booster Dose,Any,1147,"21,245",5.4
+2021-10-09,Hispanic/Latino,Fully Vaccinated,Any,20899,"37,254",56.1
+2021-10-09,"Other, NH",Booster Dose,Any,109,"2,939",3.7
+2021-10-09,All Races/Ethnicity,Fully Vaccinated,Any,64719,"106,446",60.8
+2021-10-16,"Asian, NH",Fully Vaccinated,Any,13760,"16,400",83.9
+2021-10-16,"Other, NH",Fully Vaccinated,Any,2980,"4,807",62
+2021-10-16,"White, NH",Fully Vaccinated,Any,21513,"34,980",61.5
+2021-10-16,All Races/Ethnicity,Booster Dose,Any,3423,"65,832",5.2
+2021-10-16,"Asian, NH",Booster Dose,Any,840,"13,766",6.1
+2021-10-16,"Black, NH",Booster Dose,Any,85,"3,284",2.6
+2021-10-16,Hispanic/Latino,Booster Dose,Any,577,"21,355",2.7
+2021-10-16,"Black, NH",Fully Vaccinated,Any,3282,"8,004",41
+2021-10-16,"White, NH",Booster Dose,Any,1613,"21,506",7.5
+2021-10-16,Hispanic/Latino,Fully Vaccinated,Any,21360,"37,213",57.4
+2021-10-16,"Other, NH",Booster Dose,Any,161,"2,982",5.4
+2021-10-16,All Races/Ethnicity,Fully Vaccinated,Any,65820,"106,505",61.8
+2021-10-23,"Asian, NH",Fully Vaccinated,Any,13898,"16,408",84.7
+2021-10-23,"Other, NH",Fully Vaccinated,Any,3038,"4,845",62.7
+2021-10-23,"White, NH",Fully Vaccinated,Any,21670,"34,895",62.1
+2021-10-23,All Races/Ethnicity,Booster Dose,Any,4480,"66,872",6.7
+2021-10-23,"Asian, NH",Booster Dose,Any,1085,"13,905",7.8
+2021-10-23,"Black, NH",Booster Dose,Any,106,"3,406",3.1
+2021-10-23,Hispanic/Latino,Booster Dose,Any,765,"21,861",3.5
+2021-10-23,"Black, NH",Fully Vaccinated,Any,3409,"8,022",42.5
+2021-10-23,"White, NH",Booster Dose,Any,2122,"21,656",9.8
+2021-10-23,Hispanic/Latino,Fully Vaccinated,Any,21861,"37,305",58.6
+2021-10-23,"Other, NH",Booster Dose,Any,222,"3,037",7.3
+2021-10-23,All Races/Ethnicity,Fully Vaccinated,Any,66865,"106,642",62.7
+2021-10-30,"Asian, NH",Fully Vaccinated,Any,13960,"16,366",85.3
+2021-10-30,"Other, NH",Fully Vaccinated,Any,3063,"4,846",63.2
+2021-10-30,"White, NH",Fully Vaccinated,Any,21799,"34,878",62.5
+2021-10-30,All Races/Ethnicity,Booster Dose,Any,6227,"67,682",9.2
+2021-10-30,"Asian, NH",Booster Dose,Any,1507,"13,953",10.8
+2021-10-30,"Black, NH",Booster Dose,Any,134,"3,533",3.8
+2021-10-30,"Black, NH",Fully Vaccinated,Any,3530,"8,041",43.9
+2021-10-30,"White, NH",Booster Dose,Any,2942,"21,793",13.5
+2021-10-30,Hispanic/Latino,Fully Vaccinated,Any,22237,"37,310",59.6
+2021-10-30,Hispanic/Latino,Booster Dose,Any,1090,"22,242",4.9
+2021-10-30,"Other, NH",Booster Dose,Any,285,"3,063",9.3
+2021-10-30,All Races/Ethnicity,Fully Vaccinated,Any,67645,"106,696",63.4
+2021-11-06,"Asian, NH",Fully Vaccinated,Any,14095,"16,389",86
+2021-11-06,"Other, NH",Fully Vaccinated,Any,3090,"4,836",63.9
+2021-11-06,"White, NH",Fully Vaccinated,Any,22009,"34,879",63.1
+2021-11-06,All Races/Ethnicity,Booster Dose,Any,8104,"68,678",11.8
+2021-11-06,"Asian, NH",Booster Dose,Any,1958,"14,087",13.9
+2021-11-06,"Black, NH",Booster Dose,Any,168,"3,657",4.6
+2021-11-06,"Black, NH",Fully Vaccinated,Any,3661,"8,117",45.1
+2021-11-06,"White, NH",Booster Dose,Any,3855,"22,026",17.5
+2021-11-06,Hispanic/Latino,Fully Vaccinated,Any,22638,"37,419",60.5
+2021-11-06,Hispanic/Latino,Booster Dose,Any,1403,"22,632",6.2
+2021-11-06,"Other, NH",Booster Dose,Any,368,"3,090",11.9
+2021-11-06,All Races/Ethnicity,Fully Vaccinated,Any,68662,"106,950",64.2
+2021-11-13,"Asian, NH",Fully Vaccinated,Any,14111,"16,351",86.3
+2021-11-13,"Other, NH",Fully Vaccinated,Any,3141,"4,862",64.6
+2021-11-13,"White, NH",Fully Vaccinated,Any,22182,"34,932",63.5
+2021-11-13,All Races/Ethnicity,Booster Dose,Any,10004,"69,472",14.4
+2021-11-13,"Asian, NH",Booster Dose,Any,2442,"14,115",17.3
+2021-11-13,"Black, NH",Booster Dose,Any,206,"3,754",5.5
+2021-11-13,"Black, NH",Fully Vaccinated,Any,3755,"8,145",46.1
+2021-11-13,"White, NH",Booster Dose,Any,4726,"22,188",21.3
+2021-11-13,Hispanic/Latino,Fully Vaccinated,Any,22982,"37,553",61.2
+2021-11-13,Hispanic/Latino,Booster Dose,Any,1771,"23,000",7.7
+2021-11-13,"Other, NH",Booster Dose,Any,453,"3,143",14.4
+2021-11-13,All Races/Ethnicity,Fully Vaccinated,Any,69497,"107,249",64.8
+2021-11-20,"Asian, NH",Fully Vaccinated,Any,14174,"16,330",86.8
+2021-11-20,"Other, NH",Fully Vaccinated,Any,3168,"4,874",65
+2021-11-20,"White, NH",Fully Vaccinated,Any,22322,"34,878",64
+2021-11-20,All Races/Ethnicity,Booster Dose,Any,12129,"70,107",17.3
+2021-11-20,"Asian, NH",Booster Dose,Any,2991,"14,177",21.1
+2021-11-20,"Black, NH",Booster Dose,Any,237,"3,829",6.2
+2021-11-20,"Black, NH",Fully Vaccinated,Any,3826,"8,158",46.9
+2021-11-20,"White, NH",Booster Dose,Any,5667,"22,310",25.4
+2021-11-20,Hispanic/Latino,Fully Vaccinated,Any,23247,"37,616",61.8
+2021-11-20,Hispanic/Latino,Booster Dose,Any,2186,"23,259",9.4
+2021-11-20,"Other, NH",Booster Dose,Any,541,"3,166",17.1
+2021-11-20,All Races/Ethnicity,Fully Vaccinated,Any,70099,"107,349",65.3
+2021-11-27,"Asian, NH",Fully Vaccinated,Any,14261,"16,354",87.2
+2021-11-27,"Other, NH",Fully Vaccinated,Any,3191,"4,894",65.2
+2021-11-27,"White, NH",Fully Vaccinated,Any,22404,"34,951",64.1
+2021-11-27,All Races/Ethnicity,Booster Dose,Any,13867,"70,748",19.6
+2021-11-27,"Asian, NH",Booster Dose,Any,3465,"14,259",24.3
+2021-11-27,"Black, NH",Booster Dose,Any,278,"3,919",7.1
+2021-11-27,"Black, NH",Fully Vaccinated,Any,3918,"8,214",47.7
+2021-11-27,"White, NH",Booster Dose,Any,6367,"22,420",28.4
+2021-11-27,Hispanic/Latino,Fully Vaccinated,Any,23529,"37,707",62.4
+2021-11-27,Hispanic/Latino,Booster Dose,Any,2542,"23,533",10.8
+2021-11-27,"Other, NH",Booster Dose,Any,632,"3,192",19.8
+2021-11-27,All Races/Ethnicity,Fully Vaccinated,Any,70754,"107,693",65.7
+2021-12-04,"Asian, NH",Fully Vaccinated,Any,14344,"16,374",87.6
+2021-12-04,"Other, NH",Fully Vaccinated,Any,3231,"4,918",65.7
+2021-12-04,"White, NH",Fully Vaccinated,Any,22611,"35,056",64.5
+2021-12-04,All Races/Ethnicity,Booster Dose,Any,16175,"71,573",22.6
+2021-12-04,"Asian, NH",Booster Dose,Any,4073,"14,340",28.4
+2021-12-04,"Black, NH",Booster Dose,Any,346,"4,022",8.6
+2021-12-04,"Black, NH",Fully Vaccinated,Any,4025,"8,282",48.6
+2021-12-04,"White, NH",Booster Dose,Any,7279,"22,605",32.2
+2021-12-04,Hispanic/Latino,Fully Vaccinated,Any,23912,"37,896",63.1
+2021-12-04,Hispanic/Latino,Booster Dose,Any,3060,"23,904",12.8
+2021-12-04,"Other, NH",Booster Dose,Any,746,"3,231",23.1
+2021-12-04,All Races/Ethnicity,Fully Vaccinated,Any,71594,"108,148",66.2
+2021-12-11,"Asian, NH",Fully Vaccinated,Any,14311,"16,299",87.8
+2021-12-11,"Other, NH",Fully Vaccinated,Any,3255,"4,939",65.9
+2021-12-11,"White, NH",Fully Vaccinated,Any,22695,"35,023",64.8
+2021-12-11,All Races/Ethnicity,Booster Dose,Any,18700,"71,923",26
+2021-12-11,"Asian, NH",Booster Dose,Any,4735,"14,306",33.1
+2021-12-11,"Black, NH",Booster Dose,Any,429,"4,044",10.6
+2021-12-11,"Black, NH",Fully Vaccinated,Any,4047,"8,243",49.1
+2021-12-11,"White, NH",Booster Dose,Any,8255,"22,678",36.4
+2021-12-11,Hispanic/Latino,Fully Vaccinated,Any,24107,"37,844",63.7
+2021-12-11,Hispanic/Latino,Booster Dose,Any,3589,"24,090",14.9
+2021-12-11,"Other, NH",Booster Dose,Any,853,"3,257",26.2
+2021-12-11,All Races/Ethnicity,Fully Vaccinated,Any,71937,"108,013",66.6
+2021-12-18,"Asian, NH",Fully Vaccinated,Any,14373,"16,333",88
+2021-12-18,"Other, NH",Fully Vaccinated,Any,3255,"4,940",65.9
+2021-12-18,"White, NH",Fully Vaccinated,Any,22790,"35,061",65
+2021-12-18,All Races/Ethnicity,Booster Dose,Any,21303,"72,460",29.4
+2021-12-18,"Asian, NH",Booster Dose,Any,5449,"14,377",37.9
+2021-12-18,"Black, NH",Booster Dose,Any,505,"4,106",12.3
+2021-12-18,"Black, NH",Fully Vaccinated,Any,4109,"8,234",49.9
+2021-12-18,"White, NH",Booster Dose,Any,9201,"22,774",40.4
+2021-12-18,Hispanic/Latino,Fully Vaccinated,Any,24331,"37,958",64.1
+2021-12-18,Hispanic/Latino,Booster Dose,Any,4187,"24,343",17.2
+2021-12-18,"Other, NH",Booster Dose,Any,964,"3,257",29.6
+2021-12-18,All Races/Ethnicity,Fully Vaccinated,Any,72418,"108,248",66.9
+2021-12-25,"Asian, NH",Fully Vaccinated,Any,14399,"16,307",88.3
+2021-12-25,"Other, NH",Fully Vaccinated,Any,3298,"4,959",66.5
+2021-12-25,"White, NH",Fully Vaccinated,Any,22845,"35,038",65.2
+2021-12-25,All Races/Ethnicity,Booster Dose,Any,23351,"72,746",32.1
+2021-12-25,"Asian, NH",Booster Dose,Any,5973,"14,393",41.5
+2021-12-25,"Black, NH",Booster Dose,Any,581,"4,123",14.1
+2021-12-25,"Black, NH",Fully Vaccinated,Any,4124,"8,182",50.4
+2021-12-25,"White, NH",Booster Dose,Any,9910,"22,833",43.4
+2021-12-25,Hispanic/Latino,Fully Vaccinated,Any,24478,"37,892",64.6
+2021-12-25,Hispanic/Latino,Booster Dose,Any,4698,"24,469",19.2
+2021-12-25,"Other, NH",Booster Dose,Any,1071,"3,296",32.5
+2021-12-25,All Races/Ethnicity,Fully Vaccinated,Any,72759,"108,112",67.3
+2022-01-01,"Asian, NH",Fully Vaccinated,Any,14459,"16,356",88.4
+2022-01-01,"Other, NH",Fully Vaccinated,Any,3283,"4,944",66.4
+2022-01-01,"White, NH",Fully Vaccinated,Any,23001,"35,116",65.5
+2022-01-01,All Races/Ethnicity,Booster Dose,Any,25378,"73,347",34.6
+2022-01-01,"Asian, NH",Booster Dose,Any,6494,"14,463",44.9
+2022-01-01,"Black, NH",Booster Dose,Any,664,"4,200",15.8
+2022-01-01,"Black, NH",Fully Vaccinated,Any,4204,"8,211",51.2
+2022-01-01,"White, NH",Booster Dose,Any,10598,"22,990",46.1
+2022-01-01,Hispanic/Latino,Fully Vaccinated,Any,24720,"38,031",65
+2022-01-01,Hispanic/Latino,Booster Dose,Any,5317,"24,728",21.5
+2022-01-01,"Other, NH",Booster Dose,Any,1139,"3,281",34.7
+2022-01-01,All Races/Ethnicity,Fully Vaccinated,Any,73313,"108,451",67.6
